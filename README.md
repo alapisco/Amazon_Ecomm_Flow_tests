@@ -83,3 +83,11 @@ Double click in the Amazon.spec file fot the tests to start. You will see real-t
     npx cypress open  
 
 &nbsp;
+
+## Execution Reports Example:
+&nbsp;
+![Open Execution Report](/test-executions-screenshots/open.png?raw=true "Main Execution Report")
+&nbsp;
+&nbsp;
+![Run Mode Execution Report ](/test-executions-screenshots/run.png?raw=true "Main Execution Report")
+&nbsp; 
