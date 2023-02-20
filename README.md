@@ -4,7 +4,7 @@ This repository contains automated tests for an e-commerce user flow in **Amazon
 
 These UI tests are developed with **Cypress**
 
-The e-commerce user flow of I chose is: **Adding a birthday eGift card to the cart**
+The e-commerce user flow I chose is: **Adding a birthday eGift card to the cart**
 
 - Navigate to amazon.com 
 - Click the Gift option in the upper menu
